@@ -22,6 +22,7 @@
 
   # Deployment
   The Backend is deployed on https://www.cyclic.sh/
+   Delpyoped Link https://silly-plum-cod.cyclic.app/book
 
 
   
