@@ -7,6 +7,7 @@
   * Installation
   * Points
   * Deployment
+  * Postman DOC
 
 # Installation
  For clone the repo :  git clone  paste the url
@@ -24,5 +25,9 @@
   The Backend is deployed on https://www.cyclic.sh/
    Delpyoped Link https://silly-plum-cod.cyclic.app/book
 
+# POSTMan Doc
+ Here  you can see all the crud operations
+ https://grey-desert-920448.postman.co/workspace/e2728b3c-cce7-4dc4-8326-f7fafc8d552b/documentation/25274757-fa2fe70b-ed8c-4aca-b95d-65034ac24781
 
+ 
   
