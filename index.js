@@ -26,12 +26,12 @@ app.get("/", (req, res) => {
 });
 
 // Starting the server and establishing a database connection
-app.listen(process.env.port, async () => {
+app.listen(7070, async (req, res) => {
   try {
     await connect();
     console.log("Connected to the database");
   } catch (error) {
     console.error("Error connecting to the database:", error);
   }
-  console.log(`Server running at port ${process.env.port}`);
+  console.log("Server running at port 7070");
 });
